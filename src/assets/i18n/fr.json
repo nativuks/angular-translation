@@ -1,4 +1,13 @@
 {
   "Title": "Exemple de traduction",
-  "Intro": "Bonjour je m'appelle {{name}}, j'ai {{age}} ans."
+  "Intro": "Bonjour je m'appelle {{name}}, j'ai {{age}} ans.",
+  "Home": "Accueil",
+  "About": "À propos",
+  "Contact": "Contact",
+  "Search": "Search",
+  "Submit": "Submit",
+  "Sign" : "Vous avez déjà un compte?",
+  "Login": "S'identifier"
 }
+
+

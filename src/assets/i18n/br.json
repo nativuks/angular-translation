@@ -1,4 +1,11 @@
 {
-  "Title": "Benvindo",
-  "Intro": "Bom dia me nome {{name}}, e a minha idade e  {{age}}"
+  "Title": "Exemplo de tradução",
+  "Intro": "Bom dia me nome {{name}}, e a minha idade e  {{age}}",
+  "Home": "Principal",
+  "About": "Sobre",
+  "Contact": "Contato",
+  "Search": "Pesquisa",
+  "Submit": "Enviar",
+  "Sign" : "já tem uma conta ?",
+  "Login": "Entrar"
 }

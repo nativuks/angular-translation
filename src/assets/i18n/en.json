@@ -1,4 +1,11 @@
 {
   "Title": "Translation example",
-  "Intro": "Hello I am {{name}}, I am {{age}} years old."
+  "Intro": "Hello I am {{name}}, I am {{age}} years old.",
+  "Home": "Home",
+  "About": "About",
+  "Contact": "Contact",
+  "Search": "Cherche",
+  "Submit": "Submit",
+  "Sign" : "Already have an account?",
+  "Login": "Login"
 }

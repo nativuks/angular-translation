@@ -1,0 +1,11 @@
+{
+  "Title": "翻譯例子",
+  "Intro": "你好，我是 {{name}}, 我是 {{age}} 歲.",
+  "Home": "家",
+  "About": "關於",
+  "Contact": "聯繫",
+  "Search": "搜索",
+  "Submit": "提交",
+  "Sign" : "已經有一個帳戶？",
+  "Login": "登錄"
+}
